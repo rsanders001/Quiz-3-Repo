@@ -1,0 +1,13 @@
+C:\Users\rsand\source\repos\Quiz\Quiz3\Quiz3\Quiz3\obj\Debug\netstandard2.0\Quiz3.csprojAssemblyReference.cache
+C:\Users\rsand\source\repos\Quiz\Quiz3\Quiz3\Quiz3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rsand\source\repos\Quiz\Quiz3\Quiz3\Quiz3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rsand\source\repos\Quiz\Quiz3\Quiz3\Quiz3\obj\Debug\netstandard2.0\Quiz3.AssemblyInfoInputs.cache
+C:\Users\rsand\source\repos\Quiz\Quiz3\Quiz3\Quiz3\obj\Debug\netstandard2.0\Quiz3.AssemblyInfo.cs
+C:\Users\rsand\source\repos\Quiz\Quiz3\Quiz3\Quiz3\obj\Debug\netstandard2.0\Quiz3.dll
+C:\Users\rsand\source\repos\Quiz\Quiz3\Quiz3\Quiz3\obj\Debug\netstandard2.0\ref\Quiz3.dll
+C:\Users\rsand\source\repos\Quiz\Quiz3\Quiz3\Quiz3\obj\Debug\netstandard2.0\Quiz3.pdb
+C:\Users\rsand\source\repos\Quiz\Quiz3\Quiz3\Quiz3\bin\Debug\netstandard2.0\Quiz3.deps.json
+C:\Users\rsand\source\repos\Quiz\Quiz3\Quiz3\Quiz3\bin\Debug\netstandard2.0\Quiz3.dll
+C:\Users\rsand\source\repos\Quiz\Quiz3\Quiz3\Quiz3\bin\Debug\netstandard2.0\ref\Quiz3.dll
+C:\Users\rsand\source\repos\Quiz\Quiz3\Quiz3\Quiz3\bin\Debug\netstandard2.0\Quiz3.pdb
+C:\Users\rsand\source\repos\Quiz\Quiz3\Quiz3\Quiz3\obj\Debug\netstandard2.0\XamlC.stamp

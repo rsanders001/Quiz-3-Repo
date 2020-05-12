@@ -19,7 +19,7 @@
                VerticalOptions="CenterAndExpand"
                Margin="20,20,20,20" />
         <Entry x:Name="responseName"></Entry>
-        <Button Clicked="nameButton" Text="Enter Name"></Button>
+        <Button Clicked="Name" Text="Enter Name"></Button>
 
 
         <Label x:Name="foodQuestion"
@@ -36,7 +36,7 @@
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
         
-        <Label x:Name="DisplayFoodList" Text="" 
+        <Label x:Name="foodListOutput" Text="" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>

@@ -27,22 +27,23 @@ namespace Quiz3
         private void Name(object sender, EventArgs e)
         {
             inputName = responseName.Text;
-            DisplayFoodList.Text = "";
+            nameOutput.Text = responseName.Text;
+            foodListOutput.Text = "";
             for (int i = 0; i < foodList.Count; i++)
             {
                 var output = inputName + " Likes " + foodList[i];
-                DisplayFoodList.Text += "\n" + output;
+                foodListOutput.Text += "\n" + output;
             }
         }
 
-        private void DisplayListFood(object sender, EventArgs e)
+        private void foodButton(object sender, EventArgs e)
         {
             foodList.Add(responseFood.Text);
-            DisplayFoodList.Text = "";
+            foodListOutput.Text = "";
             for (int i = 0; i < foodList.Count; i++)
             {
                 var output = inputName + " Likes " + foodList[i];
-                DisplayFoodList.Text += "\n" + output;
+                foodListOutput.Text += "\n" + output;
             }
         }
     }

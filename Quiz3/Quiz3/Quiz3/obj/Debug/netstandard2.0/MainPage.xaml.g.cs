@@ -32,7 +32,7 @@ namespace Quiz3 {
         private global::Xamarin.Forms.Label nameOutput;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Label DisplayFoodList;
+        private global::Xamarin.Forms.Label foodListOutput;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
@@ -42,7 +42,7 @@ namespace Quiz3 {
             foodQuestion = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "foodQuestion");
             responseFood = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "responseFood");
             nameOutput = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "nameOutput");
-            DisplayFoodList = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "DisplayFoodList");
+            foodListOutput = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "foodListOutput");
         }
     }
 }
